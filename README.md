@@ -9,11 +9,23 @@
 
 https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
+https://huggingface.co/spaces/optimum/llm-perf-leaderboard
+
 
 ## Dataset for Training LLM
 
+[Dataset Study](https://arxiv.org/pdf/2402.18041.pdf)
+
 [Pile Dataset](https://pile.eleuther.ai/)
+
 ![pile](assets/dataset_pile.png)
+
+[RedPajama](https://github.com/togethercomputer/RedPajama-Data)
+
+[GPT3](https://arxiv.org/pdf/2005.14165.pdf)
+
+[LLaMa](https://arxiv.org/abs/2302.13971)
+
 
 ## Dataset for Fine Tuning
 
