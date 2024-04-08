@@ -11,6 +11,8 @@ https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
 https://huggingface.co/spaces/optimum/llm-perf-leaderboard
 
+https://deci.ai/blog/list-of-large-language-models-in-open-source/
+
 
 ## Dataset for Training LLM
 
